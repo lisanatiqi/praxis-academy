@@ -1,0 +1,19 @@
+C:\Users\USER>date /t
+08/10/2019
+
+C:\Users\USER>find find "test3" test3.ad
+File not found - FIND
+File not found - TEST3.AD
+
+C:\Users\USER>color 01
+Untuk mengubah warna latar belakang jendela Prompt Perintah ke hitam dan warna latar depan menjadi biru
+
+C:\Users\USER>copy test3.jpg d:\master
+The system cannot find the file specified.
+
+C:\Users\USER>exit
+Untuk menutup interpreter perintah Cmd.exe
+
+C:\Users\USER>goto:EOF
+
+Maaf cuma 6, saya takut komp saya eror dan gak bisa ngembalikin
