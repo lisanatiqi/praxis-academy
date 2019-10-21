@@ -1,0 +1,59 @@
+1. command line : control desktop
+   hasil : memunculkan display propeties
+
+2. command line : notepad
+   hasil : membuka notepad
+
+3. command line : timedate.cpl
+   hasil : memunculkan display waktu dan tanggal
+
+4. command line : ipconfig
+   hasil : dapat melihat alamat IP laptop saya
+
+5. command line : ping
+   hasil : untuk mengetahui internet saya sudah terhubung atau belom
+
+6. command line : shutdown
+   hasil : laptop saya mati
+
+7. command line : powercfg
+   hasil : error, "invalid parameters" pada laptop saya
+
+8. command line : calc
+   hasil : menampilkan display calculator
+
+9. command line : devmgmt.msc
+   hasil : memunculkan display manager
+
+10. command line : profmon
+    hasil : menampilkan display gambaran tentang perfoma monitor
+
+11. command line : dxdiag
+    hasil : memunculkan display 
+
+12. command line : winmine
+    hasil : menampilkan permainan minesweeper
+
+13. command line : osk
+    hasil : on screen keyboard
+
+14. command line : spider
+    hasil : memunculkan game kartu bawaan windows
+
+15. command line : log off
+    hasil : mengeluarkan saya dari windows saya
+
+16. command line : control netconnections
+    hasil : network connections
+
+17. command line : ncpa.cpl
+    hasil : network connections
+
+18. command line : netsetup.cpl
+    hasil : network setup wizard
+
+19. command line : nvtuicpl.cpl
+    hasil : nview dekstop manager
+
+20. command line : control keyboard
+    hasil : keyboards properties
